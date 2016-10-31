@@ -8,6 +8,12 @@ This change log follows the format documented in [Keep a CHANGELOG].
 [Semantic Versioning]: http://semver.org/
 [Keep a CHANGELOG]: http://keepachangelog.com/
 
+## [0.5.4] - 2016-11-03
+
+### Added
+
+- Add `isLinuxRedHat` as `is_linux_red_hat` and included in `whichOs` to detect Linux Red Hat OS
+
 ## [0.5.3] - 2016-10-14
 
 ### Added
